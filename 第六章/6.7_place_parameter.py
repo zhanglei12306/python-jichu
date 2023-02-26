@@ -24,7 +24,7 @@ welcome_beijing('杨幂', '你最喜欢北京什么？')
 
 # 互换实参的位置
 print('互换实参的位置后的结果为：')
-welcome_beijing( '你想去哪里玩？','刘德华' )
+welcome_beijing('你想去哪里玩？','刘德华' )
 
 # 作业-- 希望您能手互换一下，感受一下
 welcome_beijing('小码哥', '你在北京住几年了？')
