@@ -20,7 +20,7 @@ def welcome_beijing(name):
 	
 	
 # 无参数的函数调用
-welcome_beijing()
+# welcome_beijing()
 
 # 带有参数的函数调用
 welcome_beijing('刘德华')
