@@ -7,9 +7,8 @@
 	小码哥，北京欢迎你！您最想去哪里玩？
 """
 
-
 # 使用默认值，以及任意数量的实际参数
-def welcome_beijing(*name , question='您最想去哪里玩？'):
+def welcome_beijing(*name, question='您最想去哪里玩？'):
 	"""
 	使用默认值，以及任意数量的实际参数
 	:param name:
