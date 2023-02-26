@@ -7,7 +7,7 @@
 	3、短路运算
 """
 '''
-	概念 True or False 首字母大小
+概念 True or False 首字母大小
 '''
 print(True)
 #print(ture)
