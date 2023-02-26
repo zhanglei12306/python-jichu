@@ -11,7 +11,6 @@ def welcome_beijing(*name, question='您最想去哪里玩？'):
 	for name_single in name:
 		print(type(name_single))
 		print(f'{name_single}, 北京欢迎你！{question}')
-		
 
 # 定义人员列表
 list_name = ['刘德华', '杨幂', 'Tfboy', '吴谨言']
