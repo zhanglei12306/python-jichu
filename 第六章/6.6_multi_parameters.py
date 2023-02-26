@@ -7,7 +7,6 @@
 	杨幂, 北京欢迎你！你最喜欢北京什么？
 """
 
-
 # 带有参数的函数
 # 注意PYCHARM软件中灰色的部分
 def welcome_beijing_parameter(name):
