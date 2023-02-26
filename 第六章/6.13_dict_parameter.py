@@ -9,7 +9,6 @@
 
 """
 
-
 def customer(**information):
 	print(type(information))
 	for key,value in information.items():
