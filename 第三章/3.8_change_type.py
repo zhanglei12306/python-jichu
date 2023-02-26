@@ -34,6 +34,7 @@ print('int_str_number的数据类型是：')
 print(type(int_str_number))
 print(int_str_number)
 
+
 float_str_number= float(str_number)
 print('float_str_number的数据类型是:')
 print(type(float_str_number))
