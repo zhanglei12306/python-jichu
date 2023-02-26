@@ -8,7 +8,6 @@ list_float = [6.78, 25.6, 80, 97.4]
 list_int = list(map(int, list_float))
 print(list_int)
 
-
 # 如果参数位置错了呢？
 list_int = list(map(list_float, int))
 print(list_int)
