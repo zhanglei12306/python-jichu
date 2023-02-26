@@ -9,8 +9,7 @@
 # 定义函数
 def welcome_beijing():
 	print('北京欢迎你！')
-	
-	
+
 # 函数调用 -- 喊出函数的名字
 welcome_beijing()
 
