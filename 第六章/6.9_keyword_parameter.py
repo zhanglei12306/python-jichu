@@ -13,7 +13,6 @@
 def welcome_beijing(name, question):
 	print(f'{name}, 北京欢迎你！{question}')
 
-
 # 带有参数的函数调用
 '''
 实现需求：
