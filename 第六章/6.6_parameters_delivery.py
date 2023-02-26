@@ -3,7 +3,6 @@
 参数传递
 """
 
-
 # 带有参数的函数
 def welcome_beijing(name):
 	print(f'{name}, 北京欢迎你！')
