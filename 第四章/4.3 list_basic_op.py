@@ -19,7 +19,7 @@ names_python_pc = ['陈升','刘德华','杨幂','TFboys']
 
 
 '''
-	1、访问列表元素
+1、访问列表元素
 '''
 # 根据索引访问列表元素--访问杨幂
 yangmi = names_python_pc[2]
